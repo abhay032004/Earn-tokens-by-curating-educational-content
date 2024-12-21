@@ -8,6 +8,7 @@ EduToken is a custom Ethereum-based ERC-20 token designed to support educational
 ## Contract Address
 
 0xa6D1b58899D4968E5Beb38D7c08d856B5541918d
+![image](https://github.com/user-attachments/assets/2209eb01-8bac-48f8-a92d-fcfe5625c023)
 
 
 ## Project Vision
