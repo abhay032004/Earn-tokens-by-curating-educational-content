@@ -9,6 +9,7 @@ EduToken is a custom Ethereum-based ERC-20 token designed to support educational
 
 0xa6D1b58899D4968E5Beb38D7c08d856B5541918d
 
+
 ## Project Vision
 Our vision is to create a decentralized token system that promotes education by providing a secure and transparent financial model for students, educators, and institutions. EduToken aims to revolutionize how educational incentives and resources are managed, ensuring equal opportunities for all.
 
